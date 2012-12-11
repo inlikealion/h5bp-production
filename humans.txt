@@ -1,15 +1,45 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+/* humanstxt.org */
+/* the humans responsible & colophon */
 
-# TEAM
 
-    <name> -- <role> -- <twitter>
+/* TEAM */
+  Designer: 
+  UI Developer: 
+  Developer: 
+  Site: http://www.erwinpenland.com
+  Location: EP II
 
-# THANKS
 
-    <name>
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software:
+  
 
-# TECHNOLOGY COLOPHON
+                                    
+    PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP  
+  PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+  PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+  PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+  PPPPPPPPP                       PPPPPPPPP
+  PPPPPPPPP                       PPPPPPPPP
+  PPPPPPPPP                       PPPPPPPPP
+  PPPPPPPPP           PPPPPPPPPPPPPPPPPPPPP
+  PPPPPPPPP                       PPPPPPPPP
+  PPPPPPPPP                       PPPPPPPPP
+  PPPPPPPPP                       PPPPPPPPP
+  PPPPPPPPP           PPPPPPPPPPPPPPPPPPPPP
+  PPPPPPPPP                       PPPPPPPPP
+  PPPPPPPPP                       PPPPPPPPP
+  PPPPPPPPP                       PPPPPPPPP
+  PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+  PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+  PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+  PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP  
+  PPPPPPPPPPP
+  PPPPPPPPP
+  PPPPPPP
+  PPPPP
+  PPP
 
-    HTML5, CSS3
-    jQuery, Modernizr
+  
